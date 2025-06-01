@@ -1,3 +1,11 @@
-Simple App written with react that generates random images that you can write something on top.
+# React Meme Generator
 
-Here you can see the app: https://limonatasuyu.github.io/React-meme-generator-app/
+A simple app built with React that generates random meme images and lets you add custom text on top.
+
+🌐 **Live Demo:** [limonatasuyu.github.io/React-meme-generator-app](https://limonatasuyu.github.io/React-meme-generator-app/)
+
+## Features
+
+- Random meme image generation
+- Customizable top and bottom text
+- Built using React functional components and hooks
